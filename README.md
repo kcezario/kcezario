@@ -80,7 +80,6 @@ Atuo no desenvolvimento de **pipelines escaláveis, APIs inteligentes e modelos 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kcezario&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcezario&layout=compact&theme=radical&hide_border=true" />
 </p>
 
@@ -88,11 +87,16 @@ Atuo no desenvolvimento de **pipelines escaláveis, APIs inteligentes e modelos 
 
 ## 🐍 A Cobrinha do GitHub
 
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kcezario/kcezario/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kcezario/kcezario/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kcezario/kcezario/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kcezario/kcezario/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kcezario/kcezario/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kcezario/kcezario/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</div>
+
 
 ---
 
