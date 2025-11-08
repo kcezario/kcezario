@@ -59,7 +59,7 @@ Atuo no desenvolvimento de **pipelines escaláveis, APIs inteligentes e modelos 
 
 | 🚀 Projeto | 💡 O que mostra | ⚙️ Principais Tecnologias |
 |-------------|----------------|---------------------------|
-| **[Precificação de Imóveis E2E](https://github.com/kcezario/ml-housing-pricing)** | Sistema completo de previsão de preços, com deploy em nuvem e CI/CD. | FastAPI, Scikit-learn, MLflow, Docker, GitHub Actions |
+| **[Precificação de Imóveis E2E](https://github.com/kcezario/ml-property-pricing-api)** | Sistema completo de previsão de preços, com deploy em nuvem e CI/CD. | FastAPI, Scikit-learn, MLflow, Docker, GitHub Actions |
 | **[Detecção de Anúncios Suspeitos](https://github.com/kcezario/ml-ad-fraud-pipeline)** | Pipeline distribuído em larga escala com Spark e Feature Store. | PySpark, Butterfree, MLflow, Kubeflow |
 | **[Assistente de IA para Descrições de Imóveis](https://github.com/kcezario/llm-real-estate-assistant)** | Geração automática de textos com LLM e RAG. | LangChain, OpenAI API, ChromaDB, Streamlit |
 
