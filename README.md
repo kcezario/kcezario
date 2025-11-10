@@ -85,8 +85,6 @@ Atuo no desenvolvimento de **pipelines escaláveis, APIs inteligentes e modelos 
 
 ---
 
-## 🐍 A Cobrinha do GitHub
-
 <div align="center">
 
 <picture>
