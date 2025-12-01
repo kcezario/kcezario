@@ -61,7 +61,7 @@ Atuo no desenvolvimento de **pipelines escaláveis, APIs inteligentes e modelos 
 |-------------|----------------|---------------------------|
 | **[Precificação de Imóveis E2E](https://github.com/kcezario/ml-property-pricing-api)** | Sistema completo de previsão de preços, com deploy em nuvem e CI/CD. | FastAPI, Scikit-learn, MLflow, Docker, GitHub Actions |
 | **[Detecção de Fraude em Tempo Real com MLOps](https://github.com/kcezario/real-time-fraud-detection-with-feature-store)** | Sistema MLOps end-to-end com Feature Store (Feast), inferência em tempo real e monitoramento de drift. | PySpark, Feast, Metaflow, MLflow, FastAPI |
-| **[Assistente de IA para Descrições de Imóveis](https://github.com/kcezario/llm-real-estate-assistant)** | Geração automática de textos com LLM e RAG. | LangChain, OpenAI API, ChromaDB, Streamlit |
+| **[AI Resume Tailor](https://github.com/kcezario/ai-resume-tailor)** | Aplicação inteligente que analisa compatibilidade entre currículo e vaga, gera feedback acionável e produz um CV otimizado com LLMs. Arquitetura modular com AI Core, orquestração no backend e interface interativa. | Streamlit, Python, LangChain, LLMs (OpenAI/Ollama), Sentence-Transformers, ChromaDB, Jinja2 |
 
 > 💬 Cada projeto tem README completo com arquitetura, links de deploy e instruções de execução local.
 
