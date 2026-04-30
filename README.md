@@ -1,83 +1,75 @@
-<!-- Banner ou GIF animado -->
+<!-- Banner -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Kauê+Cezário!;🚀+Engenheiro+de+Machine+Learning;💡+Apaixonado+por+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Kau%C3%AA+Cez%C3%A1rio+Cunha;Data+Platform+Engineer;Scalable+Data+%26+AI+Systems" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## About
 
-Sou **Engenheiro de Dados e Machine Learning**, com foco em **MLOps, IA Generativa e Engenharia de Software aplicada a dados**.  
-Atuo no desenvolvimento de **pipelines escaláveis, APIs inteligentes e modelos de IA end-to-end**, sempre buscando unir **robustez técnica** e **impacto real de negócio**.  
+Data Platform Engineer focused on designing scalable data systems and production-grade AI architectures.
 
-📍 São Paulo, Brasil  
-🎓 Tecnólogo em Ciência de Dados – *Cruzeiro do Sul Virtual (2023–2025)*  
-✉️ [kcezario.ep@gmail.com](mailto:kcezario.ep@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kauê-cézario-cunha) <!-- | [Portfolio ML Projects](#-meu-portfólio-em-machine-learning) PARA O FUTURO -->
+I build end-to-end data platforms — from ingestion and modeling to deployment and operation — with a strong emphasis on reliability, maintainability, and real-world constraints.
+
+My work sits at the intersection of data engineering, software architecture, and applied AI, with a focus on turning complex environments into structured, scalable systems.
+
+📍 Brazil
+🎓 Data Science Degree – Cruzeiro do Sul Virtual
+✉️ [kcezario.ep@gmail.com](mailto:kcezario.ep@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/kauê-cézario-cunha)
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
-  <!-- Principais linguagens -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-<p align="center">
-  <!-- ML & Data -->
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Infra & DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Iceberg-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🧩 Meu Portfólio em Machine Learning
+## How I think about systems
 
-> Projetos que demonstram **engenharia, ciência e produto** — todos desenvolvidos com foco em boas práticas e escalabilidade.
+I approach data engineering as a systems design problem, not just pipeline implementation.
 
-| 🚀 Projeto | 💡 O que mostra | ⚙️ Principais Tecnologias |
-|-------------|----------------|---------------------------|
-| **[Precificação de Imóveis E2E](https://github.com/kcezario/ml-property-pricing-api)** | Sistema completo de previsão de preços, com deploy em nuvem e CI/CD. | FastAPI, Scikit-learn, MLflow, Docker, GitHub Actions |
-| **[Detecção de Fraude em Tempo Real com MLOps](https://github.com/kcezario/real-time-fraud-detection-with-feature-store)** | Sistema MLOps end-to-end com Feature Store (Feast), inferência em tempo real e monitoramento de drift. | PySpark, Feast, Metaflow, MLflow, FastAPI |
-| **[AI Resume Tailor](https://github.com/kcezario/ai-resume-tailor)** | Aplicação inteligente que analisa compatibilidade entre currículo e vaga, gera feedback acionável e produz um CV otimizado com LLMs. Arquitetura modular com AI Core, orquestração no backend e interface interativa. | Streamlit, Python, LangChain, LLMs (OpenAI/Ollama), Sentence-Transformers, ChromaDB, Jinja2 |
+* Clear separation between ingestion, transformation, and serving layers
+* Modular design with low coupling and explicit responsibilities
+* Trade-offs between simplicity, scalability, and operational cost
+* Focus on reproducibility, observability, and long-term maintainability
 
-> 💬 Cada projeto tem README completo com arquitetura, links de deploy e instruções de execução local.
-
----
-
-## 🏆 Certificações Recentes
-
-- Databricks: *Get Started with Data Engineering & SQL Analytics*  
-- Alura: *Formação Apache Spark com Python*  
-- Alura & Google: *Imersão em Inteligência Artificial*  
-- crewAI: *Multi-Agent Systems with CrewAI*  
-- University of Michigan: *Introduction to Data Science in Python*
+Most of my projects are structured to make these decisions visible in code.
 
 ---
 
-## 📊 GitHub Stats
+## Selected Systems
+
+| Project                                                                                                   | What it demonstrates                                                                                                                                              | Core Technologies                  |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **[Lakehouse Processing Benchmark](https://github.com/kcezario/lakehouse-processing-benchmark)**          | Architecture-focused benchmark comparing transformation engines (Python, Pandas, Spark) under increasing data volumes, with Iceberg + Trino as persistence layer. | Spark, Trino, Iceberg, Python      |
+| **[Real-Time Fraud Detection](https://github.com/kcezario/real-time-fraud-detection-with-feature-store)** | End-to-end ML system with feature store, real-time inference, and monitoring, designed for production constraints.                                                | PySpark, Feast, MLflow, FastAPI    |
+| **[AI Resume Tailor](https://github.com/kcezario/ai-resume-tailor)**                                      | LLM-based system for CV-job matching with modular architecture and semantic retrieval.                                                                            | Python, LangChain, LLMs, Vector DB |
+
+---
+
+## Certifications
+
+* Databricks – Data Engineering & SQL Analytics
+* Apache Spark with Python
+* Multi-Agent Systems (crewAI)
+* Introduction to Data Science in Python (University of Michigan)
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcezario&layout=compact&theme=radical&hide_border=true" />
@@ -90,21 +82,20 @@ Atuo no desenvolvimento de **pipelines escaláveis, APIs inteligentes e modelos 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kcezario/kcezario/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kcezario/kcezario/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kcezario/kcezario/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kcezario/kcezario/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
+---
+
+## Contact
+
+* LinkedIn: [https://www.linkedin.com/in/kaue-cezario-cunha](https://www.linkedin.com/in/kaue-cezario-cunha/)
+* Email: [kcezario.ep@gmail.com](mailto:kcezario.ep@gmail.com)
 
 ---
 
-## 🤝 Vamos conversar?
-
-Se quiser trocar ideias sobre **IA, engenharia de dados ou MLOps**, me chame por aqui 👇  
-📬 [LinkedIn](https://www.linkedin.com/in/kauê-cézario-cunha) • ✉️ [Email](mailto:kcezario.ep@gmail.com)
-
----
-
-<p align="center">  
-  <b>"Transformando dados em decisões e modelos em produtos inteligentes."</b>  
+<p align="center">
+  <b>Designing data systems that scale in complexity, not in chaos.</b>
 </p>
